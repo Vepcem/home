@@ -968,35 +968,6 @@ a {
   align-items: center;
   margin-bottom: 2rem;
 }
-.cid-t2DO2LTtaG {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/painel-1158x467.png");
-}
-.cid-t2DO2LTtaG .card {
-  border-radius: 0;
-}
-@media (min-width: 992px) {
-  .cid-t2DO2LTtaG .card {
-    border-right: 1px solid white;
-  }
-}
-@media (max-width: 991px) {
-  .cid-t2DO2LTtaG .card {
-    border-right: 0px;
-    border-bottom: 1px solid white;
-  }
-}
-.cid-t2DO2LTtaG .wrapper {
-  padding: 30px 0;
-}
-.cid-t2DO2LTtaG .mbr-section-title {
-  color: #fafafa;
-}
-.cid-t2DO2LTtaG .mbr-text,
-.cid-t2DO2LTtaG .mbr-section-btn {
-  color: #ffffff;
-}
 .cid-sZd2lyshQs {
   z-index: 1000;
   width: 100%;

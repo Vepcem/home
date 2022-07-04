@@ -5402,6 +5402,30 @@ a {
     left: -1rem;
   }
 }
+.cid-tan1cmVBFq {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tan1cmVBFq .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tan1cmVBFq img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tan1cmVBFq .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tan1cmVBFq .mbr-description {
+  text-align: left;
+}
+.cid-tan1cmVBFq .mbr-section-title {
+  color: #0e1ad6;
+}
 .cid-tahsNxIodO {
   padding-top: 6rem;
   padding-bottom: 6rem;

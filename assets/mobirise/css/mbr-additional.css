@@ -3609,6 +3609,10 @@ a {
 .cid-t2Q0tvUQmR .row {
   justify-content: center;
 }
+.cid-t2Q0tvUQmR .card-title,
+.cid-t2Q0tvUQmR .iconfont-wrapper {
+  color: #0e1ad6;
+}
 .cid-s48P1Icc8J {
   padding-top: 1rem;
   padding-bottom: 2rem;
@@ -7691,6 +7695,10 @@ a {
 }
 .cid-t1RbiTqmEJ .row {
   justify-content: center;
+}
+.cid-t1RbiTqmEJ .card-title,
+.cid-t1RbiTqmEJ .iconfont-wrapper {
+  color: #0e1ad6;
 }
 .cid-t1RbiTTmvP {
   padding-top: 1rem;
